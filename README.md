@@ -1,0 +1,2 @@
+# Supermarket-Management-System
+title : Supermaket management system database : yes - ms access language :  c# tool : visual basic  module :  a) billing operator (sam: 456) b) admin module   (amy : 123)  functions:  billing operator   1) Generate Receipt   admin 1) manage purchase details -manage supplier listing -record supplier invoice -manage purchase order 2) manage product details 3) manage employee details 4) generate report
